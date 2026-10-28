@@ -8,6 +8,7 @@
 CareerMatch AI helps college students understand how their resumes align with internship opportunities. Users can provide a resume and a job description to receive an estimated match score, see relevant skills, identify requirements not found in their resume, and get suggestions for improving their resumes.
 
 The goal is to help students understand skill gaps and prepare more effectively for internship applications.
+<img width="1514" height="748" alt="image" src="https://github.com/user-attachments/assets/98e651e0-490e-4f93-bb14-26fe6154ece5" />
 
 ## Key Features
 
@@ -30,6 +31,10 @@ The goal is to help students understand skill gaps and prepare more effectively 
 5. Explore the match score, supporting evidence, and missing requirements.
 6. Follow the learning roadmap and review resume improvement suggestions.
 7. Download the PDF report.
+<img width="1120" height="482" alt="image" src="https://github.com/user-attachments/assets/698dcf97-0df2-4144-85a8-a9beaddef264" />
+<img width="1143" height="789" alt="image" src="https://github.com/user-attachments/assets/bbbde496-5f69-4057-a4c5-6ec0f60aa5a9" />
+<img width="1184" height="907" alt="image" src="https://github.com/user-attachments/assets/b6c658b9-75ef-42a6-85a4-ee3981ee6215" />
+<img width="898" height="811" alt="image" src="https://github.com/user-attachments/assets/96149a70-7275-4050-b850-e665d713218d" />
 
 ## Scoring Method
 
@@ -41,6 +46,9 @@ The application assigns:
 The match score is calculated by dividing matched weighted points by total weighted points and multiplying by 100.
 
 The score is an estimate of resume alignment. It does not predict whether an applicant will receive an interview or job offer.
+
+<img width="1357" height="877" alt="image" src="https://github.com/user-attachments/assets/d5e092f7-5ff2-4da1-a346-10b61edd27d4" />
+<img width="1228" height="813" alt="image" src="https://github.com/user-attachments/assets/9ce5e4d1-ed67-443d-868f-d666fecf988d" />
 
 ## Tools and Approach
 
